@@ -2,11 +2,10 @@
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-douglas-pereira-celestino-75841a205/)
 
-![workmadmax GitHub stats](https://github-readme-stats.vercel.app/api?username=workmadmax&show_icons=true&theme=dracula)
 🎓
 ### Tecnologias ... 🎓
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=workmadmax)](https://github.com/workmadmax/github-readme-stats)
+
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
