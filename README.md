@@ -3,7 +3,7 @@
 # Olá! Eu sou o Max Douglas 👋
 ### `mdouglas` · `madmax42` · `workmadmax`
 
-<a href="https://www.linkedin.com/in/max-douglas-pereira-celestino-75841a205/">
+<a href="https://www.linkedin.com/in/max-douglas/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/workmadmax">
